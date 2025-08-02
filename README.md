@@ -1,6 +1,6 @@
 # 🧙‍♂️ AI Dungeon Story Generator
 
-**Internship Project by:** Harsimran Singh  
+**Project by:** Indranil Mondal 
 **Built with:** Streamlit + Google Gemini API  
 **Type:** Creative AI / Generative Text Web App  
 
